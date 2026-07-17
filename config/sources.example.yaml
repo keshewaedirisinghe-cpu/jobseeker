@@ -1,0 +1,21 @@
+schema_version: "1.0"
+sources:
+  manual:
+    enabled: true
+    adapter: manual
+  jobicy:
+    enabled: false
+    adapter: jobicy
+    poll_minutes: 60
+    jitter_seconds: 120
+    query:
+      industry: design
+  remoteok:
+    enabled: false
+    adapter: remoteok
+    poll_minutes: 60
+    jitter_seconds: 180
+  freelancer:
+    enabled: false
+    adapter: freelancer_official
+    poll_minutes: 30

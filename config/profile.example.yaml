@@ -1,0 +1,41 @@
+schema_version: "1.0"
+identity:
+  display_name: "Dilshan Keshewa Edirisinghe"
+  primary_title: "Senior Graphic Designer / 3D Visualizer"
+  timezone: "Asia/Colombo"
+  portfolio_url: "https://www.behance.net/47pixels"
+  email: "SET_IN_PRIVATE_PROFILE"
+  phone: "SET_IN_PRIVATE_PROFILE"
+services:
+  - id: packaging_label
+    priority: 10
+    names: ["Packaging Design", "Label Design", "Dielines", "Print Production"]
+  - id: amazon_ecommerce_creative
+    priority: 10
+    names: ["Amazon Listing Images", "A+ Content", "Product Storytelling"]
+  - id: brand_identity
+    priority: 9
+    names: ["Brand Identity", "Visual Systems", "Logo and Guidelines"]
+  - id: 3d_product_visualization
+    priority: 10
+    names: ["3D Product Modeling", "Photoreal Rendering", "Mockups"]
+  - id: architectural_visualization
+    priority: 8
+    names: ["Architectural Visualization", "Interior Visualization"]
+  - id: catalog_presentation_print
+    priority: 7
+    names: ["Catalogs", "Presentations", "Brochures", "Social Creatives"]
+proposal_style:
+  concise: true
+  target_words: [100, 180]
+  human_tone: true
+  include_portfolio_link: true
+  avoid_phrases:
+    - "I am thrilled to apply"
+    - "I am the perfect candidate"
+constraints:
+  max_review_jobs_per_day: 20
+  max_submitted_applications_per_day: 5
+  unpaid_large_tests: reject
+  unknown_budget: review
+claims: []

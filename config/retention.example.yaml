@@ -1,0 +1,10 @@
+schema_version: "1.0"
+raw_rejected_jobs_days: 30
+normalized_jobs_days: 180
+raw_llm_responses_days: 30
+audit_events_days: 365
+applications_days: null
+backup_retention:
+  daily: 7
+  weekly: 4
+  monthly: 3
