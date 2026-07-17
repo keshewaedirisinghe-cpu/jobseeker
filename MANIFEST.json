@@ -10,9 +10,29 @@
     "bytes": 210
   },
   {
+    "path": ".pytest_cache/.gitignore",
+    "sha256": "3ed731b65d06150c138e2dadb0be0697550888a6b47eb8c45ecc9adba8b8e9bd",
+    "bytes": 37
+  },
+  {
+    "path": ".pytest_cache/CACHEDIR.TAG",
+    "sha256": "37dc88ef9a0abeddbe81053a6dd8fdfb13afb613045ea1eb4a5c815a74a3bde4",
+    "bytes": 191
+  },
+  {
+    "path": ".pytest_cache/README.md",
+    "sha256": "73fd6fccdd802c419a6b2d983d6c3173b7da97558ac4b589edec2dfe443db9ad",
+    "bytes": 302
+  },
+  {
+    "path": ".pytest_cache/v/cache/nodeids",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2
+  },
+  {
     "path": "AGENTS.md",
-    "sha256": "6163a764d284f1890c81ac3c192013ee7b030d3807de58ed2919d9b0c8ddf369",
-    "bytes": 3799
+    "sha256": "43866339b193a60704969d6eed559a019b48194089ad93b0aa4b495c1d530bbc",
+    "bytes": 3797
   },
   {
     "path": "IMPLEMENTATION_STATUS.md",
@@ -20,9 +40,14 @@
     "bytes": 1826
   },
   {
+    "path": "MANIFEST.json",
+    "sha256": "432ca141e9b08d7f32e262aa82e4d85e0d2444df083285a282a53e1c870b405b",
+    "bytes": 7626
+  },
+  {
     "path": "README.md",
-    "sha256": "3086cdcc155b41407423c31e91412dbd5f30c59434827e9af8807a80f5d022f4",
-    "bytes": 2898
+    "sha256": "11af4871905c29021ab0c34f1ae7977eadaef7ed9cb6652da9842b6816884c80",
+    "bytes": 2890
   },
   {
     "path": "config/platform_policy.example.yaml",
@@ -60,167 +85,167 @@
     "bytes": 343
   },
   {
-    "path": "docs/00-(index).md",
-    "sha256": "6e33c5583488425b2410aa0a1f1c21cb2d8e9dfeefd8540608c7477267c0b029",
-    "bytes": 7349
+    "path": "docs/00-index.md",
+    "sha256": "639e49a36a783523d2851c92a8f925c67c2f1a3bf35107f6a8bcf5c9c198f085",
+    "bytes": 7157
   },
   {
-    "path": "docs/01-(project-charter-and-scope).md",
-    "sha256": "a7f8764fa45ed73a056261af141e5a0722dadeccc9a33ba685b392356426c8d0",
-    "bytes": 4191
+    "path": "docs/01-project-charter-and-scope.md",
+    "sha256": "d190c9f0b79a3b03617185063819f7681757655f7fc90b07c9d53530e5859807",
+    "bytes": 4189
   },
   {
-    "path": "docs/02-(compliance-and-platform-policy-registry).md",
+    "path": "docs/02-compliance-and-platform-policy-registry.md",
     "sha256": "bd32361a364a3059d0b375fcb9cfdd90330184df5bef7479fcc957867008083e",
     "bytes": 4550
   },
   {
-    "path": "docs/03-(positioning-profile-and-success-metrics).md",
+    "path": "docs/03-positioning-profile-and-success-metrics.md",
     "sha256": "ddd06a69db98c226433a3e2267baebdbc4f3d866b2977953c42797a37826cb25",
     "bytes": 4222
   },
   {
-    "path": "docs/04-(local-environment-and-repository-bootstrap).md",
+    "path": "docs/04-local-environment-and-repository-bootstrap.md",
     "sha256": "604993541d1f6dda92424865bffc63f4f3c6aa739ae95f39097b306c9e96744f",
     "bytes": 3443
   },
   {
-    "path": "docs/05-(architecture-boundaries-and-state-machines).md",
+    "path": "docs/05-architecture-boundaries-and-state-machines.md",
     "sha256": "c148d2b6098413f783ff1dad3c19ade438f78077e6251eb3e5854d90a251f209",
     "bytes": 4030
   },
   {
-    "path": "docs/06-(database-schema-and-migrations).md",
+    "path": "docs/06-database-schema-and-migrations.md",
     "sha256": "dd9b615368a6a81bccade97c268af01cf814daddc62c24204347c1c4d036746b",
     "bytes": 3656
   },
   {
-    "path": "docs/07-(source-adapter-framework).md",
+    "path": "docs/07-source-adapter-framework.md",
     "sha256": "d2a2d4d53e282a7f34fcae133eaa09bd0883a02790c2f2e9fe94ca4ab0c76ae6",
     "bytes": 3009
   },
   {
-    "path": "docs/08-(initial-compliant-source-integrations).md",
+    "path": "docs/08-initial-compliant-source-integrations.md",
     "sha256": "45e28ba61b180fff8f1c189a870481f7039d84bdc6c04b62e27d0464fd36c390",
     "bytes": 3277
   },
   {
-    "path": "docs/09-(normalization-deduplication-and-rules).md",
+    "path": "docs/09-normalization-deduplication-and-rules.md",
     "sha256": "b51e54ec3327a0e8738b47ac4d60dc4b17270e135062de246752093257e0d198",
     "bytes": 3399
   },
   {
-    "path": "docs/10-(llm-gateway-and-structured-scoring).md",
+    "path": "docs/10-llm-gateway-and-structured-scoring.md",
     "sha256": "b8d094aa024a53afb4fdfd8cc921f99c36356e6b0379007b1571e8d5967be1aa",
     "bytes": 3339
   },
   {
-    "path": "docs/11-(portfolio-knowledge-base-and-retrieval).md",
+    "path": "docs/11-portfolio-knowledge-base-and-retrieval.md",
     "sha256": "29644288b66430b9ee99ab5155992dbefea22d54b9990e926e1e29d8e04858a6",
     "bytes": 3190
   },
   {
-    "path": "docs/12-(proposal-generation-and-factuality-guardrails).md",
+    "path": "docs/12-proposal-generation-and-factuality-guardrails.md",
     "sha256": "a5aa510f92edc9d98c6c0e955322835bd6cb20815235606e036b1e51588a3e86",
     "bytes": 3277
   },
   {
-    "path": "docs/13-(human-review-dashboard-and-notifications).md",
+    "path": "docs/13-human-review-dashboard-and-notifications.md",
     "sha256": "05fc5ca338b2d9f65c019397a40beec8496cf7a2b1718adcb16f6c572e40b881",
     "bytes": 2974
   },
   {
-    "path": "docs/14-(submission-assistance-and-permitted-connectors).md",
+    "path": "docs/14-submission-assistance-and-permitted-connectors.md",
     "sha256": "2a8f0dde7c729c252c0fcf01e8871ac280978ef323a7d833403ff6e1f1989919",
     "bytes": 3059
   },
   {
-    "path": "docs/15-(crm-follow-ups-and-feedback-capture).md",
+    "path": "docs/15-crm-follow-ups-and-feedback-capture.md",
     "sha256": "6d6f138ba36100bf286b178c73cb5ca26fa282dbf9ada1dab11b85b794c27281",
     "bytes": 2608
   },
   {
-    "path": "docs/16-(workers-scheduling-idempotency-and-reliability).md",
+    "path": "docs/16-workers-scheduling-idempotency-and-reliability.md",
     "sha256": "177c68c078eb294dbcacec80aefa254fe48ee2669ff2cb23007a3f4b403c4d29",
     "bytes": 2822
   },
   {
-    "path": "docs/17-(security-secrets-privacy-and-retention).md",
+    "path": "docs/17-security-secrets-privacy-and-retention.md",
     "sha256": "707c6c2aed10c0f9441dd389b559dc22bb9ab2738d97d017f9a72206f170a5f4",
     "bytes": 3248
   },
   {
-    "path": "docs/18-(testing-evaluations-and-quality-gates).md",
+    "path": "docs/18-testing-evaluations-and-quality-gates.md",
     "sha256": "0764598ea7a7274edf32f07fc1428b669122419764d8a62dc9ef844e3841c2b2",
     "bytes": 2983
   },
   {
-    "path": "docs/19-(observability-cost-controls-and-operations).md",
+    "path": "docs/19-observability-cost-controls-and-operations.md",
     "sha256": "e9dde03b9b65e7044c20d70e990de59ba9376324bf79184b732b0e57cb47bd99",
     "bytes": 2665
   },
   {
-    "path": "docs/20-(local-deployment-startup-backup-and-recovery).md",
+    "path": "docs/20-local-deployment-startup-backup-and-recovery.md",
     "sha256": "90bd8eb5e9c7eae4036ee51f2a5cc06d8542df8acd98e3aca4fd9b9ce0cedf83",
     "bytes": 2718
   },
   {
-    "path": "docs/21-(codex-implementation-workflow-and-release-discipline).md",
-    "sha256": "3b166c65f741298da2014e32dd0fe4403a161d69ce5e7806d9744edd90f8f612",
-    "bytes": 3243
+    "path": "docs/21-codex-implementation-workflow-and-release-discipline.md",
+    "sha256": "b497d4296232803a8f30b717a71db80b6b51f5bf550fc49494787bce5b901fea",
+    "bytes": 3241
   },
   {
-    "path": "docs/22-(pilot-launch-tuning-and-production-readiness).md",
+    "path": "docs/22-pilot-launch-tuning-and-production-readiness.md",
     "sha256": "0dc3832d0bbfa2f35bf3338ce74f26f615aa84d309367a3814b49176b11716ea",
     "bytes": 3637
   },
   {
-    "path": "docs/90-(data-contracts-and-json-schemas).md",
+    "path": "docs/90-data-contracts-and-json-schemas.md",
     "sha256": "0bec53b280a263415605d6106a7ac3b055780e27086e10ddfd2ecb621946fdaa",
     "bytes": 2532
   },
   {
-    "path": "docs/91-(configuration-reference).md",
+    "path": "docs/91-configuration-reference.md",
     "sha256": "d4d8c451d883b215f1ee5cce20dd7452d49c781823002191db9d114fa6469fc4",
     "bytes": 1514
   },
   {
-    "path": "docs/92-(codex-prompt-library).md",
-    "sha256": "70a93eaf0ec6060e45fcf28dd08127882c3a1933447dcbad1c58635dcc493408",
-    "bytes": 2048
+    "path": "docs/92-codex-prompt-library.md",
+    "sha256": "dd0b5af191e95f622a0210210e24fac407ff08f84cee130ceced4d9a90c89761",
+    "bytes": 2044
   },
   {
-    "path": "docs/93-(platform-connector-checklists).md",
+    "path": "docs/93-platform-connector-checklists.md",
     "sha256": "dda47631d012744c71a2b48b96119ac975cca5f35b897e79daa5d555f984b0ff",
     "bytes": 1815
   },
   {
-    "path": "docs/94-(test-and-evaluation-dataset-guide).md",
+    "path": "docs/94-test-and-evaluation-dataset-guide.md",
     "sha256": "269789e349ab94a93c971216dc9247a4dd1742f7510e23e827d19cd6ffc44ad8",
     "bytes": 1180
   },
   {
-    "path": "docs/95-(operations-runbooks).md",
+    "path": "docs/95-operations-runbooks.md",
     "sha256": "4bdc86816337f5dffbc1fac0471a95ab8ca3f2be7150bb8fbc1a0c3a458fd872",
     "bytes": 1271
   },
   {
-    "path": "docs/96-(risk-register).md",
+    "path": "docs/96-risk-register.md",
     "sha256": "a7520575b199332ff3ca264ccfab9366f6f97e761b1c61021afebc18feed980d",
     "bytes": 1456
   },
   {
-    "path": "docs/97-(glossary).md",
+    "path": "docs/97-glossary.md",
     "sha256": "e246eeb9b844624f2e973f8f4f34c71b375eef2b8834c3d668bf08ff648b166c",
     "bytes": 1366
   },
   {
-    "path": "docs/98-(source-guideline-page-notes).md",
+    "path": "docs/98-source-guideline-page-notes.md",
     "sha256": "a31abd6b17ab4acea62a64e22f85d9b6dd512d49d8ddb25f2e2bd6759c8d1e8f",
     "bytes": 1904
   },
   {
-    "path": "docs/99-(official-reference-links).md",
+    "path": "docs/99-official-reference-links.md",
     "sha256": "d33ca4d2fe15f317545eb44baf57806b534c7cca352f9946fc7c681ad6e7ebea",
     "bytes": 2724
   },
