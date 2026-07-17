@@ -8,7 +8,7 @@ The central rule is deliberate: **automate discovery, normalization, scoring, dr
 
 - `AGENTS.md` - permanent project instructions for ChatGPT Codex.
 - `IMPLEMENTATION_STATUS.md` - the one source of truth for milestone progress.
-- `docs/00-(index).md` - master index, sequence, dependencies, and six-week plan.
+- `docs/00-index.md` - master index, sequence, dependencies, and six-week plan.
 - `docs/01-...22-...` - executable milestones in required order.
 - `docs/90-...99-...` - supporting references, schemas, prompts, glossary, and research notes.
 - `config/*.example.yaml` - non-secret configuration examples.
@@ -24,13 +24,13 @@ The central rule is deliberate: **automate discovery, normalization, scoring, dr
 1. Extract this ZIP into a normal project folder.
 2. Open the folder in Git and create the first commit.
 3. Open Codex in this folder.
-4. Ask Codex to read `AGENTS.md`, `IMPLEMENTATION_STATUS.md`, and `docs/00-(index).md`.
+4. Ask Codex to read `AGENTS.md`, `IMPLEMENTATION_STATUS.md`, and `docs/00-index.md`.
 5. Start only Milestone 01.
 
 Suggested first Codex instruction:
 
 ```text
-Read AGENTS.md, IMPLEMENTATION_STATUS.md, docs/00-(index).md, and docs/01-(project-charter-and-scope).md. Do not implement later milestones. Complete Milestone 01 exactly, create or update its required artifacts, run every listed verification step, and show me the acceptance checklist before marking the milestone complete.
+Read AGENTS.md, IMPLEMENTATION_STATUS.md, docs/00-index.md, and docs/01-project-charter-and-scope.md. Do not implement later milestones. Complete Milestone 01 exactly, create or update its required artifacts, run every listed verification step, and show me the acceptance checklist before marking the milestone complete.
 ```
 
 ## Default local architecture
