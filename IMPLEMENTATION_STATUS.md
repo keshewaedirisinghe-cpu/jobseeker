@@ -1,8 +1,8 @@
 # Implementation Status
 
-**Current milestone:** 01  
-**Last completed milestone:** None  
-**Overall state:** Documentation prepared; implementation not started.  
+**Current milestone:** 02
+**Last completed milestone:** 01
+**Overall state:** Milestone 01 complete; workflow rules now allow an autonomous full run through prompts 00-22 with sub-agent dispatch, sequential checks, record updates, and commits.
 **Last updated:** 2026-07-18
 
 ## Rules
@@ -10,11 +10,12 @@
 - Only one milestone may be `IN PROGRESS`.
 - A milestone becomes `DONE` only after its acceptance criteria and verification commands pass.
 - If a milestone is blocked, record the exact blocker and stop instead of jumping ahead.
+- In a full sequential workflow, the agent may advance from one milestone to the next without user input only after the current milestone is `DONE`, required checks pass, completion records are updated, and a milestone commit has been created. Stop instead of advancing if any check fails, a dependency is missing, acceptance criteria are ambiguous, or compliance/policy status is uncertain.
 
 | ID | Milestone | Status | Evidence / commit |
 |---:|---|---|---|
-| 01 | Project charter and scope | TODO | |
-| 02 | Compliance and platform policy registry | TODO | |
+| 01 | Project charter and scope | DONE | docs/PROJECT_CHARTER.md; docs/adr/0001-human-in-the-loop-boundary.md; docs/adr/0002-local-first-mvp.md |
+| 02 | Compliance and platform policy registry | IN PROGRESS | Autonomous full-workflow continuation after Milestone 01 verification/commit |
 | 03 | Positioning profile and success metrics | TODO | |
 | 04 | Windows/WSL local environment and repository bootstrap | TODO | |
 | 05 | Architecture, boundaries, and state machines | TODO | |
