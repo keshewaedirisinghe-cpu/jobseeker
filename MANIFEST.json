@@ -10,6 +10,26 @@
     "bytes": 210
   },
   {
+    "path": ".pytest_cache/.gitignore",
+    "sha256": "3ed731b65d06150c138e2dadb0be0697550888a6b47eb8c45ecc9adba8b8e9bd",
+    "bytes": 37
+  },
+  {
+    "path": ".pytest_cache/CACHEDIR.TAG",
+    "sha256": "37dc88ef9a0abeddbe81053a6dd8fdfb13afb613045ea1eb4a5c815a74a3bde4",
+    "bytes": 191
+  },
+  {
+    "path": ".pytest_cache/README.md",
+    "sha256": "73fd6fccdd802c419a6b2d983d6c3173b7da97558ac4b589edec2dfe443db9ad",
+    "bytes": 302
+  },
+  {
+    "path": ".pytest_cache/v/cache/nodeids",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2
+  },
+  {
     "path": "AGENTS.md",
     "sha256": "5e800903c959edb0ec161de29f242577a2154d7799b52d9dd71748c3632de4d5",
     "bytes": 3808
